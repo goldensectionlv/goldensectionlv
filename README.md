@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goldensectionlv
-- 👀 Check my movie recomendation service pet project https://mozingamoviesv2.herokuapp.com/ and pined job tasks
+- 👀 Check my movie recomendation service pet project https://mozingamoviesv2.herokuapp.com/ and pinned job tasks
 - 📫 How to reach me https://career.habr.com/leva-van
 
 <!---
